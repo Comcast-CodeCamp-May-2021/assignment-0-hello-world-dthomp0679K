@@ -1,2 +1,1 @@
-console.log ( "Yahoo!")
-console.log( "Yahoo!");
+console.log( "Hello World!");
